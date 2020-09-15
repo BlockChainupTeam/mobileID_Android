@@ -5,4 +5,4 @@
   - Android SDK : Android 10.0+ / api Level 30
   - JDK : jdk1.8.0_261
   - AVD (Android Virtual Device) : Android 10.0+ / api Level 30
-  - Caver-java : com.klaytn.caver:core:1.5.3-rc.1-android
+  - Caver-java : 1.5.3-rc.1-android
