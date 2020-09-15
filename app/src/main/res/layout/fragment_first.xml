@@ -8,9 +8,12 @@
 
     <TextView
         android:id="@+id/textview_first"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="370dp"
+        android:layout_height="174dp"
         android:text="@string/hello_first_fragment"
+        app:autoSizeMaxTextSize="200px"
+        app:autoSizeMinTextSize="20px"
+        app:autoSizeTextType="uniform"
         app:layout_constraintBottom_toTopOf="@id/button_first"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
