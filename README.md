@@ -4,7 +4,7 @@
 ## History
   - 09-15 : Android Studio 프로젝트 생성 및 Caver-java 추가, 각 api테스트 예제
   
-## ersion
+## Version
   - Android SDK : Android 10.0+ / api Level 30
   - JDK : jdk1.8.0_261
   - AVD (Android Virtual Device) : Android 10.0+ / api Level 30
